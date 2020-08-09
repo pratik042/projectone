@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class anothertry {
 		public static void main (String[]args){
+			System.out.println("thhis is updated");
 		System.out.println("Enter the numbers");
 		Scanner input = new Scanner(System.in);
 		int num1 = input.nextInt();
