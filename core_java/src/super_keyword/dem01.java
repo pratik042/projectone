@@ -6,26 +6,28 @@ import operators.demo1;
 //we can call instance variables,or methods and constructors,
 //in following program  we will use to call everything from bike
 
-class bike{
-	int no;
-	String company;
+class bike
+{
+	 int no;
+	 String company;
 	bike(int i,String c)
-	{no=i;
-	company=c;
-		
+	{no=i;company=c;
+	System.out.println(no+" from bike   "+company);
 	}
-	
 }
-class model extends bike{
-	String type;
-	
+
+     class model 
+{
+ String type;
+ int no;
+ String company;
 	model(int no, String company,String m)
-	{ super(no,company);
-	type=m;
+	{//super(no,company);//POINT= AS WE SEE WE CAN USE SUPER KEYWORD OR THIS,BOTH GIVE OUTPUT
+		this.no=no;
+	    this.type=m;
+	    this.company=company;
     }
-	
-	
-	void show()
+    void show()
 	{
 		System.out.println("bike number="+no+"\nbike company="+company+"\nmodel="+type);
 	}

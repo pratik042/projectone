@@ -6,5 +6,48 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/spring-websocket-5.0.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/spring-webmvc-portlet-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/spring-test-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/spring-tx-5.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/spring-oxm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/spring-orm-5.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/spring-messaging-5.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/spring-jms-5.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/spring-jdbc-5.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/spring-instrument-tomcat-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/spring-instrument-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/spring-context-support-5.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/spring-aspects-5.1.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/spring-aop-5.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/spring-web-5.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/spring-expression-5.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/spring-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/spring-beans-5.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/spring-context-5.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/spring-core-5.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/jaxb-api-2.3.1 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/chromedriver_win32.zip"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/hibernate-core-5.4.13.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/hibernate-core-5.4.6.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/hibernate-core-5.4.12.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/hibernate-entitymanager-5.3.8.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/hibernate-entitymanager-5.3.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/hibernate-entitymanager-5.4.10.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/javax.transaction-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/byte-buddy-1.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/dom4j-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/hibernate-core-5.3.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/jboss-transaction-api_1.2_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/junit-jupiter-api-5.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/mysql-connector-java-5.1.47.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/hibernate-core-5.4.10.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/mysql-connector-java-8.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Downloads/mysql-connector-java-8.0.18.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
